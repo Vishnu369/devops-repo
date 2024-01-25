@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 piplines {
+    stages {
+    }
+}
+=======
+pipeline {
+    agent any
+
+>>>>>>> develop
     stages {
         
     }
